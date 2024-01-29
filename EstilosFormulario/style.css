@@ -1,0 +1,13 @@
+.input-error{
+    display: none;
+}
+
+.input-error-activo{
+    display: block;
+    color: red;
+    font-size: 12px;
+}
+
+.alert-danger{
+    display: none;
+}
